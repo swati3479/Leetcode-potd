@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/swati3479/Leetcode-potd/tree/master/0539-minimum-time-difference) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/swati3479/Leetcode-potd/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/swati3479/Leetcode-potd/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
